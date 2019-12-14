@@ -1,0 +1,206 @@
+
+Task Five Sync
+
+1: accept
+2: cost
+3: Fizz
+4: It shouldn't break anything!
+5: Buzz
+6: Fizz
+7: It shouldn't break anything!
+8: It shouldn't break anything!
+9: Fizz
+10: Buzz
+11: building
+12: Fizz
+13: relationship
+14: pony
+15: FizzBuzz
+16: ship
+17: desert
+18: Fizz
+19: flag
+20: Buzz
+21: Fizz
+22: similar
+23: ill
+24: Fizz
+25: Buzz
+26: cross
+27: Fizz
+28: fur
+29: rate
+30: FizzBuzz
+31: produce
+32: explain
+33: Fizz
+34: mouth
+35: Buzz
+36: Fizz
+37: living
+38: family
+39: Fizz
+40: Buzz
+41: certain
+42: Fizz
+43: sweet
+44: wonder
+45: FizzBuzz
+46: yellow
+47: community
+48: Fizz
+49: silk
+50: Buzz
+51: Fizz
+52: cake
+53: carefully
+54: Fizz
+55: Buzz
+56: full
+57: Fizz
+58: safe
+59: bush
+60: FizzBuzz
+61: planning
+62: screen
+63: Fizz
+64: rough
+65: Buzz
+66: Fizz
+67: stick
+68: nervous
+69: Fizz
+70: Buzz
+71: hang
+72: Fizz
+73: closely
+74: soft
+75: FizzBuzz
+76: temperature
+77: leaving
+78: Fizz
+79: brief
+80: Buzz
+81: Fizz
+82: ordinary
+83: command
+84: Fizz
+85: Buzz
+86: It shouldn't break anything!
+87: Fizz
+88: season
+89: It shouldn't break anything!
+90: FizzBuzz
+91: correct
+92: build
+93: Fizz
+94: silly
+95: Buzz
+96: Fizz
+97: real
+98: motor
+99: Fizz
+100: Buzz
+
+Task Five Async
+
+1: satisfied
+2: It shouldn't break anything!
+3: Fizz
+4: plane
+5: Buzz
+6: Fizz
+7: shadow
+8: It shouldn't break anything!
+9: Fizz
+10: Buzz
+11: It shouldn't break anything!
+12: Fizz
+13: It shouldn't break anything!
+14: pale
+15: FizzBuzz
+16: gate
+17: It shouldn't break anything!
+18: Fizz
+19: coffee
+20: Buzz
+21: Fizz
+22: loose
+23: post
+24: Fizz
+25: Buzz
+26: favorite
+27: Fizz
+28: officer
+29: among
+30: FizzBuzz
+31: path
+32: real
+33: Fizz
+34: went
+35: Buzz
+36: Fizz
+37: It shouldn't break anything!
+38: early
+39: Fizz
+40: Buzz
+41: valuable
+42: Fizz
+43: curious
+44: plastic
+45: FizzBuzz
+46: opportunity
+47: It shouldn't break anything!
+48: Fizz
+49: tonight
+50: Buzz
+51: Fizz
+52: It shouldn't break anything!
+53: solar
+54: Fizz
+55: Buzz
+56: swing
+57: Fizz
+58: underline
+59: hang
+60: FizzBuzz
+61: attempt
+62: It shouldn't break anything!
+63: Fizz
+64: deeply
+65: Buzz
+66: Fizz
+67: boat
+68: ancient
+69: Fizz
+70: Buzz
+71: high
+72: Fizz
+73: It shouldn't break anything!
+74: It shouldn't break anything!
+75: FizzBuzz
+76: stove
+77: successful
+78: Fizz
+79: rubbed
+80: Buzz
+81: Fizz
+82: congress
+83: aside
+84: Fizz
+85: Buzz
+86: shape
+87: Fizz
+88: It shouldn't break anything!
+89: loose
+90: FizzBuzz
+91: It shouldn't break anything!
+92: surface
+93: Fizz
+94: memory
+95: Buzz
+96: Fizz
+97: hungry
+98: such
+99: Fizz
+100: Buzz
